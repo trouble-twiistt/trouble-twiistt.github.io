@@ -1,9 +1,9 @@
-# Starting Point
+# Starting Point - TIER 0
 This is the starting of my journey to become a god-like pentester.Building my knowledge from zer0 by cracking Hack the box machines. Starting point is a section to learn the basics of penetration testing. There are 3 tiers with multiple machines in each tier.
 ```
 Bound to succeed
 ```
-## Machines - Tier 0
+## Machines
 ### Meow
 - Difficulty: Very easy     
 - Understand the working of Telnet
