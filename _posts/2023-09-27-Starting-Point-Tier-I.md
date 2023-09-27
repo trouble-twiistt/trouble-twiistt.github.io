@@ -40,7 +40,6 @@ show database;
 use htb;
 show tables;
 select * from config;
-
 ```
 - The commands above would show us the different database and then we can choose the database and view the tables with content inside them
 - The flag was found in the table config 
